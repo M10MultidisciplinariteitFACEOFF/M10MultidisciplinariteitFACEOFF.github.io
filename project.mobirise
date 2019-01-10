@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SiteM10 29-11",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2018,7 +2018,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-9083-1-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -2137,7 +2137,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-9110-1-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
