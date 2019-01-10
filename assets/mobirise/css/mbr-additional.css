@@ -1812,12 +1812,8 @@ body {
 .cid-rbsXgYLstP H1 {
   color: #ffffff;
 }
-.cid-rbXgeczlHF {
-  background-image: url("../../../assets/images/img-337-2000x1333.jpg");
-}
-.cid-rbXgeczlHF .mbr-text,
-.cid-rbXgeczlHF .mbr-section-btn {
-  text-align: left;
+.cid-reMGtKVL3i {
+  background-image: url("../../../assets/images/dsc-9075-1-2000x1333.jpg");
 }
 .cid-reh7CsMQZL {
   padding-top: 30px;
@@ -6074,6 +6070,30 @@ body {
 }
 @media (max-width: 768px) {
   .cid-rehipH4icb .video-block {
+    width: 100% !important;
+  }
+}
+.cid-reMJHd9SMl {
+  background: #ffffff;
+}
+.cid-reMJHd9SMl .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-reMJHd9SMl .video-block {
+    width: 100% !important;
+  }
+}
+.cid-reMJMI4lw8 {
+  background: #ffffff;
+}
+.cid-reMJMI4lw8 .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-reMJMI4lw8 .video-block {
     width: 100% !important;
   }
 }
